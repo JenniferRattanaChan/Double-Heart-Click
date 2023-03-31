@@ -20,4 +20,8 @@ small {
     display: block;
     margin-bottom: 20px;
     text-align: center;
-  }
+}
+
+.fa-heart {
+    color: red;
+}
